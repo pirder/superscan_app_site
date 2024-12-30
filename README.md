@@ -1,5 +1,4 @@
-# 码上看源官网
-[![沙漠中的岩石图片](./assets/ios-badge.svg "App Store")](https://apps.apple.com/cn/app/%E7%A0%81%E4%B8%8A%E7%9C%8B%E6%BA%90-%E6%89%AB%E6%9D%A1%E5%BD%A2%E7%A0%81%E6%9F%A5%E5%95%86%E5%93%81%E4%BA%A7%E5%9C%B0/id6463448144)
+# 扫码仔官网
 
 ## 描述
 担心商品是否来自污染区？码上看源，快速查看商品产地，避开风险。
